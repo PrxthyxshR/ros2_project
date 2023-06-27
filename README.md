@@ -1,3 +1,4 @@
+# Batch A Team 15
 # ros2_project
 
 ## TEAM MEMBERS
@@ -52,10 +53,13 @@ This course is focus on Maze Solving behavior of robot In a Simulation based on 
 
 ## Codes to be Typed in Terminal to run final maze solving model
 ### Terminal 1 
-'colcon build --allow overriding maze_bot'
-'source ~/path_planning_ws/install/setup.bash'
-'ros2 launch maze_bot maze_2_robot_camera.launch.py'
+     colcon build --allow overriding maze_bot
+     source ~/path_planning_ws/install/setup.bash
+     ros2 launch maze_bot maze_2_robot_camera.launch.py
+
 
 ### Terminal 2
-'source ~/path_planning_ws/install/setup.bash'
-'ros2 run maze_bot maze_solver'
+
+    +source ~/path_planning_ws/install/setup.bash
+    +ros2 run maze_bot maze_solver
+
