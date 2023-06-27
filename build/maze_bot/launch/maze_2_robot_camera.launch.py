@@ -1,0 +1,1 @@
+/home/ubuntu/path_planning_ws/src/maze_bot/launch/maze_2_robot_camera.launch.py
