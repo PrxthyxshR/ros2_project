@@ -3,10 +3,10 @@
 
 ## TEAM MEMBERS
 
-Avinash Madhu [CB.EN.U4AIE21006]
-Lakshmi R R[CB.EN.U4AIE21027]
-M S Sree Mridhula[CB.EN.U4AIE21028]
-Prathyush Rajagopal[CB.EN.U4AIE21043]
+    -Avinash Madhu [CB.EN.U4AIE21006]
+    -Lakshmi R R[CB.EN.U4AIE21027]
+    -M S Sree Mridhula[CB.EN.U4AIE21028]
+    -Prathyush Rajagopal[CB.EN.U4AIE21043]
 
 ## Project Description
 This course is focus on Maze Solving behavior of robot In a Simulation based on ROS2. Computer Vision is the key focus with integrated important robotics algorithms of Motion Planning . The type of robot we will be using is Differential Drive Robot with a caster wheel . Course is structured with below main headings .
@@ -60,6 +60,6 @@ This course is focus on Maze Solving behavior of robot In a Simulation based on 
 
 ### Terminal 2
 
-    +source ~/path_planning_ws/install/setup.bash
-    +ros2 run maze_bot maze_solver
+     source ~/path_planning_ws/install/setup.bash
+     ros2 run maze_bot maze_solver
 
